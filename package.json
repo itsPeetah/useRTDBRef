@@ -3,8 +3,16 @@
   "version": "1.0.0",
   "description": "Custom react hook to access a Firebase Realtime Database reference",
   "main": "index.js",
+  "homepage": "https://github.com/itspeetah/usertdbref",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itspeetah/usertdbref.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itspeetah/usertdbref/issues"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "react",
@@ -13,7 +21,7 @@
     "realtime-database"
   ],
   "author": "itsPeetah",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "firebase": "^9.15.0",
     "react": "^18.2.0"
