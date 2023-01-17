@@ -1,0 +1,21 @@
+{
+  "name": "@itspeetah/usertdbref",
+  "version": "1.0.0",
+  "description": "Custom react hook to access a Firebase Realtime Database reference",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [
+    "react",
+    "firebase",
+    "hook",
+    "realtime-database"
+  ],
+  "author": "itsPeetah",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.15.0",
+    "react": "^18.2.0"
+  }
+}
